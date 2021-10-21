@@ -1,0 +1,12 @@
+spark-warehouse
+.vscode
+*.pem
+notes.txt
+.ipynb_checkpoints
+__pycache__
+*.csv
+*.txt
+*.tsv.gz
+.DS_Store
+*.parquet
+datasets
